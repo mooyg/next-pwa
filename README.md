@@ -1,8 +1,6 @@
 This a Progressive Web App example based on [Next.js](https://nextjs.org/)
 
 ## Getting Started
-
-First, run the development server:
 Download the project zip and extract it 
 ```bash
 npm run dev
