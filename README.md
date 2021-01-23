@@ -10,4 +10,6 @@ npm run dev
 yarn dev
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
 **__You can go to Browser console and Applications and see the service workers.__**
